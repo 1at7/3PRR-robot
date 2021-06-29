@@ -1,1 +1,3 @@
-# 3R-robot-IK
+# Upwork project
+# 3R-robot Kinamatics
+
